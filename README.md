@@ -13,3 +13,5 @@
 t-swami/t-swami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Note: Use brain for to search: "ctrl+f"
