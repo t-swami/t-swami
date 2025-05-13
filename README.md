@@ -2,7 +2,8 @@
 - 👀 I’m interested in VLSI mainly in the domain of Digital Design and Verification
 - 🌱 I’m currently learning the Front-End Digital Design and verification Languages from Cadence.
 - 💞️ Here I had a plan to post a code for certain number of days related to the VLSI.
-   Most probably I will post every day, but may not for 1 dayin a month.
+   Most probably I will post every day, but may not for 1 day in a month.
+  
 
 - 📫 You can reach me by Email:swami.8talla@gmail.com
 -                         phn: 9014389160
